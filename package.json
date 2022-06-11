@@ -1,0 +1,11 @@
+{
+  "name": "node-notes-for-professionals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OpenTechConsult/node-notes-for-professionals.git",
+  "author": "OpenTech-Consult <opentech.consult@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

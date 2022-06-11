@@ -11,3 +11,9 @@
 
 - Node.js can be used to create command line utilities.
 - The example created in hello-world-cmd-line branch reads the first argument from the command line and prints a Hello message.
+
+## Section 1.3: Hello World with Express
+
+- uses express to create an HTTP server listening on port 3000, which responds with "Hello World!".
+- express is commonly used for creating HTTP APIs.
+
